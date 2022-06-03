@@ -1,0 +1,18 @@
+******Tarefa Algoritmo Acordando******
+{
+	1- Se o celular despertar ou sol invadir a janela {
+		
+		1.1 - se o sol invadir a janela 
+				conferir a hora no celular se for antes das 7:30 {
+					voltar a dormir até o celular despertar.
+				}
+					
+		1.2 - se o celular despertou {
+			levantar
+			pegar o celular
+			desligar o despertador
+			seguir as rotinas diarias.
+		
+		}
+	
+}
